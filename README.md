@@ -1,3 +1,4 @@
+
 # Smart Bookmark App
 
 A simple, real-time bookmark manager built with Next.js, Supabase, and Tailwind CSS.
@@ -100,3 +101,7 @@ npm run dev
 ## Deployment
 
 This app is ready to be deployed on **Vercel**. Ensure you add the environment variables (`NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY`) in the Vercel project settings.
+
+# Smart-Bookmark-App
+A fullstack Smart Bookmark application built with Next.js (App Router), Supabase (Auth, Database, Realtime) and Tailwind CSS. Supports Google OAuth login, private bookmarks, real-time updates, and deployment on Vercel.
+
